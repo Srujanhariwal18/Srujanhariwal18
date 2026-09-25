@@ -17,7 +17,7 @@
 
 - 🔭 Currently: **Skilling up** — building projects and strengthening fundamentals
 - 🌱 Currently learning: **Java**, **Operating Systems**, and working through **DSA with Java**
-- 🤝 Looking to collaborate on: **open source projects using AI**
+- 🤝 Looking to collaborate on: **open source projects using vibe coding tools**
 - ⚡ Fun fact: *Give me time, not pressure — the results still show up right when they should.*
 
 ---
