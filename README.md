@@ -62,14 +62,13 @@
 
 <div align="center">
 
-![Srujan's GitHub Stats](https://github-readme-stats-srujanhariwal27.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=radical&count_private=true)
+![Srujan's GitHub Stats](https://github-readme-stats-srujanhariwal27.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats-srujanhariwal27.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=radical)
 
 </div>
-
 ---
 
 <div align="center">
