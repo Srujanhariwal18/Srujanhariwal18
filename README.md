@@ -9,7 +9,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Srujanhariwal18&color=blueviolet&style=flat)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Tech+Student;Building+with+Python+%7C+DSA+%7C+Operating+Systems;Exploring+the+world+of+AI+Systems;Open+to+Open-Source+Collaborations)](https://git.io/typing-svg)
-
 </div>
 
 ---
