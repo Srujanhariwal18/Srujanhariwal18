@@ -2,12 +2,13 @@
 
 # Hi 👋, I'm Srujan Hariwal
 
-### Turning curiosity into code — one problem, one system, one model at a time
+### Turning curiosity into code — one problem, one system, one model at a time.
 
 📍 Hubli, Karnataka, India
 
-https://komarev.com/ghpvc/?username=Srujanhariwal18&color=blueviolet&style=flat
-https://git.io/typing-svg
+![Profile Views](https://komarev.com/ghpvc/?username=Srujanhariwal18&color=blueviolet&style=flat)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Tech+Student;Building+with+Python+%7C+DSA+%7C+Operating+Systems;Exploring+the+world+of+AI+Systems;Open+to+Open-Source+Collaborations)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,8 +17,8 @@ https://git.io/typing-svg
 ### 🚀 About Me
 
 - 🔭 Currently: **Skilling up** — building projects and strengthening fundamentals
-- 🌱 Currently learning: **Java**, **Operating Systems**, and working through **DSA with Java**
-- 🤝 Looking to collaborate on: **open source projects using vibe coding tools**
+- 🌱 Currently learning: **Python**, **Operating Systems**, and working through **DSA with Java**
+- 🤝 Looking to collaborate on: **open source projects using AI**
 - ⚡ Fun fact: *Give me time, not pressure — the results still show up right when they should.*
 
 ---
@@ -62,17 +63,18 @@ https://git.io/typing-svg
 
 <div align="center">
 
-![Srujan's GitHub Stats](https://github-readme-stats-srujanhariwal27.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=radical)
+![Srujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-srujanhariwal27.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srujanhariwal18&theme=radical)
 
 </div>
+
 ---
 
 <div align="center">
 
-*Thanks for stopping by! Feel free to reach out if you're working on an open-source AI project.*
+*Got an open-source AI project brewing? My inbox is open, my curiosity is louder, and I might just be the missing collaborator you didn't know you needed.* 🚀
 
 </div>
