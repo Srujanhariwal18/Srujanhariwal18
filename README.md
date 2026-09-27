@@ -2,12 +2,12 @@
 
 # Hi 👋, I'm Srujan Hariwal
 
-### Computer Science student, currently skilling up
+### Turning curiosity into code — one problem, one system, one model at a time
 
 📍 Hubli, Karnataka, India
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat)
-![Location](https://img.shields.io/badge/📍-Hubli%2C%20Karnataka%2C%20India-blue)
+https://komarev.com/ghpvc/?username=Srujanhariwal18&color=blueviolet&style=flat
+https://git.io/typing-svg
 
 </div>
 
