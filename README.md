@@ -62,14 +62,17 @@
 
 <div align="center">
 
-![Srujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=radical)
+![](https://github-readme-stats.shion.dev/api?username=Srujanhariwal18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&theme=radical)
+![](https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=dark&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srujanhariwal18&theme=radical)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Srujanhariwal18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Srujanhariwal18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
-
 ---
 
 <div align="center">
