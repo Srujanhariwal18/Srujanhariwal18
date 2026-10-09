@@ -56,20 +56,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Live GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=dark&hide_border=true" alt="GitHub streak" />
+</div>
 
-![Srujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Top languages" />
+</div>
 
-![GitHub streak](https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=dark&hide_border=false)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![Top contributed repositories](https://github-contributor-stats.vercel.app/api?username=Srujanhariwal18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Srujanhariwal18&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
 </div>
 
 ---
