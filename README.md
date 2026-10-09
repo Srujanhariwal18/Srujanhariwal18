@@ -59,16 +59,32 @@
 ### 📊 Live GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=dark&hide_border=true" alt="GitHub streak" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=dark&hide_border=true)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Top languages" />
-</div>
+### 🧠 Most Used Languages
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Srujanhariwal18&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
+
+![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srujanhariwal18&theme=github_dark)
+![Most committed languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srujanhariwal18&theme=github_dark)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800)
+
+</div>
+
+### 🏆 Top Contributed Repositories
+
+<div align="center">
+
+![Top contributed repositories](https://github-contributor-stats.vercel.app/api?username=Srujanhariwal18&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+
+[View all repositories and contributions →](https://github.com/Srujanhariwal18?tab=repositories)
+
 </div>
 
 ---
