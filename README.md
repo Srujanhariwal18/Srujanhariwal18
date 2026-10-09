@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Srujanhariwal18&color=blueviolet&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Tech+Student;Building+with+Python+%7C+DSA+%7C+Operating+Systems;Exploring+the+world+of+AI+Systems;Open+to+Open-Source+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Tech+Student;Building+with+Code;Learning+AI+and+Systems)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -60,17 +60,18 @@
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Srujanhariwal18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Srujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=dark&hide_border=false)
+![GitHub streak](https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Srujanhariwal18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Srujanhariwal18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top contributed repositories](https://github-contributor-stats.vercel.app/api?username=Srujanhariwal18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+
 ---
 
 <div align="center">
