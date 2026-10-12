@@ -6,7 +6,7 @@
 
 📍 Hubli, Karnataka, India
 
-![Profile views](https://komarev.com/ghpvc/?username=Srujanhariwal18&label=Profile%20Views&color=8b5cf6&style=flat)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSrujanhariwal18%2FSrujanhariwal18&count_bg=%238B5CF6&title_bg=%231F2937&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
 
 </div>
 
