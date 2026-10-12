@@ -10,26 +10,6 @@
 
 </div>
 
-### ⌨️ Code Writing Playback
-
-```java
-while (learning) {
-    build();
-    break();
-    debug();
-    improve();
-}
-```
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=680&lines=Aspiring+Tech+Student;Building+with+Code;Learning+AI+and+Systems;Improving+Every+Day"
-    alt="Typing animation showing Srujan Hariwal's current learning and coding focus"
-  />
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🔭 Currently: **Skilling up** — building projects and strengthening fundamentals
@@ -77,22 +57,9 @@ while (learning) {
 
 <div align="center">
 
-![GitHub stats for Srujanhariwal18](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub stats for Srujanhariwal18](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![GitHub contribution streak for Srujanhariwal18](https://streak-stats.demolab.com?user=Srujanhariwal18&theme=tokyonight&hide_border=true)
-
-</div>
-
-<p align="center">
-If the live cards don't load, view the <a href="https://github.com/Srujanhariwal18">GitHub profile overview</a> directly.
-</p>
-
-### 🧠 Most Used Languages
-
-<div align="center">
-
-![Most used languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srujanhariwal18&theme=tokyonight)
-![Most committed languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srujanhariwal18&theme=tokyonight)
 
 ![Top languages used by Srujanhariwal18](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&langs_count=8&card_width=420&theme=tokyonight&hide_border=true)
 
@@ -102,7 +69,7 @@ If the live cards don't load, view the <a href="https://github.com/Srujanhariwal
 
 <div align="center">
 
-![GitHub profile details summary card for Srujanhariwal18](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srujanhariwal18&theme=tokyonight)
+- [View full GitHub profile](https://github.com/Srujanhariwal18)
 
 [View all repositories and contributions →](https://github.com/Srujanhariwal18?tab=repositories)
 
