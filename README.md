@@ -6,7 +6,7 @@
 
 📍 Hubli, Karnataka, India
 
-<img src="https://img.shields.io/badge/Profile%20views-Available-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Profile views" width="150" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Building+useful+software;Learning+Python+and+Operating+Systems;Practicing+DSA+with+Java;Exploring+AI+and+open+source)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,6 +50,19 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge)
+
+---
+
+### 💻 Code in Progress
+
+```python
+class Srujan:
+    focus = ["Python", "Operating Systems", "DSA"]
+    interests = ["AI", "open source", "useful software"]
+
+    def keep_building(self):
+        return "learn → build → improve"
+```
 
 ---
 
