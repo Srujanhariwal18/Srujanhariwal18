@@ -6,7 +6,7 @@
 
 📍 Hubli, Karnataka, India
 
-![Profile views](https://komarev.com/ghpvc/?username=Srujanhariwal18&label=Profile%20Views&color=8b5cf6&style=flat)
+<img src="https://img.shields.io/badge/Profile%20views-Available-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Profile views" width="150" />
 
 </div>
 
