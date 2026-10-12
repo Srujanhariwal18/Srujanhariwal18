@@ -6,10 +6,27 @@
 
 📍 Hubli, Karnataka, India
 
-![Profile Views](https://komarev.com/ghpvc/?username=Srujanhariwal18&color=blueviolet&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Srujanhariwal18&label=Profile%20Views&color=8b5cf6&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Tech+Student;Building+with+Code;Learning+AI+and+Systems)](https://git.io/typing-svg)
 </div>
+
+### ⌨️ Code Writing Playback
+
+```java
+while (learning) {
+    build();
+    break();
+    debug();
+    improve();
+}
+```
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=680&lines=Aspiring+Tech+Student;Building+with+Code;Learning+AI+and+Systems;Improving+Every+Day"
+    alt="Typing animation showing Srujan Hariwal's current learning and coding focus"
+  />
+</p>
 
 ---
 
@@ -60,28 +77,32 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800)
+![GitHub stats for Srujanhariwal18](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub streak](https://streak-stats.demolab.com/?user=Srujanhariwal18&theme=dark&hide_border=true)
+![GitHub contribution streak for Srujanhariwal18](https://streak-stats.demolab.com?user=Srujanhariwal18&theme=tokyonight&hide_border=true)
 
 </div>
+
+<p align="center">
+If the live cards don't load, view the <a href="https://github.com/Srujanhariwal18">GitHub profile overview</a> directly.
+</p>
 
 ### 🧠 Most Used Languages
 
 <div align="center">
 
-![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srujanhariwal18&theme=github_dark)
-![Most committed languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srujanhariwal18&theme=github_dark)
+![Most used languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srujanhariwal18&theme=tokyonight)
+![Most committed languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srujanhariwal18&theme=tokyonight)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800)
+![Top languages used by Srujanhariwal18](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&langs_count=8&card_width=420&theme=tokyonight&hide_border=true)
 
 </div>
 
-### 🏆 Top Contributed Repositories
+### 🏆 Contribution Highlights
 
 <div align="center">
 
-![Top contributed repositories](https://github-contributor-stats.vercel.app/api?username=Srujanhariwal18&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+![GitHub profile details summary card for Srujanhariwal18](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srujanhariwal18&theme=tokyonight)
 
 [View all repositories and contributions →](https://github.com/Srujanhariwal18?tab=repositories)
 
