@@ -6,7 +6,7 @@
 
 📍 Hubli, Karnataka, India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=750&lines=lost+in+code%2C+found+in+creativity;debugging+life%2C+one+line+at+a+time;midnight+thoughts%2C+endless+commits;crafting+ideas+into+reality)](https://git.io/typing-svg)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSrujanhariwal18%2FSrujanhariwal18&count_bg=%238B5CF6&title_bg=%231F2937&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
 </div>
 
 ### 🚀 About Me
