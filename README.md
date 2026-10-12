@@ -52,18 +52,6 @@
 
 ---
 
-### 💻 Code in Progress
-
-```python
-class Srujan:
-    focus = ["Python", "Operating Systems", "DSA"]
-    interests = ["AI", "open source", "useful software"]
-
-    def keep_building(self):
-        return "learn → build → improve"
-```
-
----
 
 ### 📊 Live GitHub Stats
 
