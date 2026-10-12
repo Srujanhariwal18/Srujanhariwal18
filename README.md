@@ -6,8 +6,7 @@
 
 📍 Hubli, Karnataka, India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Building+useful+software;Learning+Python+and+Operating+Systems;Practicing+DSA+with+Java;Exploring+AI+and+open+source)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=lost+in+code%2C+found+in+creativity;debugging+life%2C+one+line+at+a+time;midnight+thoughts%2C+endless+commits;crafting+ideas+into+reality)](https://git.io/typing-svg)
 </div>
 
 ### 🚀 About Me
