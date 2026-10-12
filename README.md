@@ -7,7 +7,6 @@
 📍 Hubli, Karnataka, India
 
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSrujanhariwal18%2FSrujanhariwal18&count_bg=%238B5CF6&title_bg=%231F2937&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
-
 </div>
 
 ### 🚀 About Me
@@ -52,6 +51,7 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge)
 
 ---
+
 
 ### 📊 Live GitHub Stats
 
