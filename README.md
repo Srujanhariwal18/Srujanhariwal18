@@ -57,11 +57,15 @@
 
 <div align="center">
 
-![GitHub stats for Srujanhariwal18](https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Srujanhariwal18&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats for Srujanhariwal18" />
 
-![GitHub contribution streak for Srujanhariwal18](https://streak-stats.demolab.com?user=Srujanhariwal18&theme=tokyonight&hide_border=true)
+  <br />
 
-![Top languages used by Srujanhariwal18](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&langs_count=8&card_width=420&theme=tokyonight&hide_border=true)
+  <img src="https://streak-stats.demolab.com?user=Srujanhariwal18&theme=tokyonight&hide_border=true" alt="GitHub streak for Srujanhariwal18" />
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujanhariwal18&layout=compact&langs_count=8&card_width=420&theme=tokyonight&hide_border=true" alt="Top languages for Srujanhariwal18" />
 
 </div>
 
